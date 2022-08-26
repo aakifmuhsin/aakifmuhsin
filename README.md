@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning laravel react 
 - 💞️ I’m looking to collaborate on website development
 - 📫 reach me using my mail @url=aakifmuhsin.j@gmail.com
-- Instagram Clone = aakif.insta.kalakad.in
+- Instagram Clone @url=aakif.insta.kalakad.in
