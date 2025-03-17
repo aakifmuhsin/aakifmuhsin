@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @aakifmuhsin
-- 👀 I’m interested in web application development
-- 🌱 I’m currently learning laravel react 
-- 💞️ I’m looking to collaborate on website development
-- 📫 reach me using my mail @url=aakifmuhsin.j@gmail.com
-- Instagram Clone @url=aakif.insta.kalakad.in
+Hi, I’m @aakifmuhsin
+
+👀 I’m a Software Engineer with over 2 years of experience in cross-platform mobile app development and Gen AI model engineering, focusing on performance optimization and enhancing user experiences.
+
+🌱 I’m currently expanding my skill set by learning Laravel and React for full-stack web development, while continuing to deepen my expertise in mobile architectures (MVC/MVVM) and AI-driven solutions.
+
+💞️ I’m eager to collaborate on mobile app development, Gen AI models, and innovative tech solutions to create high-performing applications and improve user engagement.
