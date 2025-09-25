@@ -1,6 +1,6 @@
 👋 Hi, This is Aakif Muhsin
 
-🚀 I’m a Software Engineer with 2+ years of hands-on experience in cross-platform mobile development and Generative AI engineering. I specialize in building high-performance mobile applications and AI-driven features that elevate user experience and drive product innovation.
+🚀 I’m a Software Engineer with 3+ years of hands-on experience in cross-platform mobile development and Generative AI engineering. I specialize in building high-performance mobile applications and AI-driven features that elevate user experience and drive product innovation.
 
 🔧 My technical expertise spans:
 
