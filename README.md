@@ -1,23 +1,34 @@
-👋 Hi, This is Aakif Muhsin
+👋 Hi, I’m Aakif Muhsin
 
-🚀 I’m a Software Engineer with 3+ years of hands-on experience in cross-platform mobile development and Generative AI engineering. I specialize in building high-performance mobile applications and AI-driven features that elevate user experience and drive product innovation.
+🚀 Associate Software Engineer with over 2 years of hands-on experience, currently working as a Full-Stack Developer specializing in Flutter for cross-platform mobile development and Python for backend and AI engineering.
 
-🔧 My technical expertise spans:
+💼 About Me
 
-Mobile Development: Proficient in Flutter & Dart, with strong foundations in mobile architecture patterns like MVC and MVVM
+💻 Cross-Platform Mobile Development using Flutter, with deep understanding of mobile architecture patterns (MVC, MVVM) and performance optimization.
 
-Gen AI & ML: Experienced in developing and integrating Generative AI models, optimizing performance for real-world mobile applications
+🧠 AI & GenAI Engineering: Building intelligent, AI-enhanced features using Python, Langchain, and LLMs, focusing on real-world integrations and automation.
 
-Performance Optimization: Focused on delivering scalable, efficient, and maintainable code to enhance application speed and responsiveness
+☁️ Cloud-Native Development: Deploying scalable solutions using Firebase, AWS, and Cron jobs for scheduled automation and serverless workflows.
 
-🌱 Currently enhancing my full-stack development skills by diving into Laravel (PHP) and React.js, aiming to deliver complete end-to-end solutions across web and mobile platforms.
+🔄 Full-Stack Development: Leveraging Flutter (frontend) + Python (backend) to create seamless, integrated mobile and backend systems.
 
-🤝 Open to collaboration on:
+🛠️ Tech Stack
 
-Mobile app development (Flutter / Hybrid apps)
+Mobile & Frontend: Flutter, Dart
+Backend & AI: Python, FastAPI, Flask, Langchain, OpenAI
+Cloud & DevOps: Firebase, AWS (Lambda, S3, etc.), Cron
+Databases: Firestore, PostgreSQL, MySQL
+Tools & Others: Git, GitHub Actions, REST APIs, CI/CD
 
-Generative AI integrations
+🤝 Let’s Collaborate On
 
-Innovative, user-centric product development
+Mobile applications built with Flutter
 
-📫 Let's connect and build something impactful!
+Generative AI and automation tools using Python
+
+Cloud-based backend systems and APIs
+
+AI-integrated mobile solutions
+
+📫 Let’s connect and build something impactful!
+Feel free to reach out for collaboration, contributions, or just to say hi.
